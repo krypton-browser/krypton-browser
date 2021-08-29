@@ -1,3 +1,3 @@
 # Krypton
 
-![logo_banner]('./images/banner.png')
+![logo_banner](./images/banner.png)
