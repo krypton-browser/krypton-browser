@@ -1,2 +1,3 @@
-# SunrinHackathon
-[Go Project](https://github.com/EduBeforeTheStation/browser-desktop)
+# Krypton
+
+![logo_banner]('./images/../../images/banner.png')
